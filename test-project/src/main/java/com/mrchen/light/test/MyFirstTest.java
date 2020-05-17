@@ -18,5 +18,4 @@ public class MyFirstTest {
          JSONObject jsonObject= myRequestClient.getAccess_token("111","222");
          System.out.println("JSON:   "+jsonObject);
     }
-
 }
